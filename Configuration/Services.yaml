@@ -1,0 +1,14 @@
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        public: false
+
+    GeorgRinger\Docs\:
+        resource: '../Classes/*'
+
+    GeorgRinger\Docs\Backend\ToolbarItems\DocsToolbarItem:
+        public: true
+        tags:
+            - name: backend.toolbar.item
+              priority: 50

@@ -1,0 +1,2 @@
+# cat=basic/user/10; type=string; label=Dokumentations-URL: URL oder EXT:-Pfad zur generierten Dokumentations-HTML-Seite (z.B. EXT:f_theme/Resources/Public/Docs/index.html oder /_assets/docs/index.html)
+docUrl = EXT:f_theme/Resources/Public/Docs/index.html
