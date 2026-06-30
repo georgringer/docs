@@ -1,6 +1,6 @@
 {
 	"name": "georgringer/docs",
-	"description": "Backend documentation toolbar for WSK",
+	"description": "Show rendered documentation in backend",
 	"license": ["GPL-2.0-or-later"],
 	"type": "typo3-cms-extension",
 	"require": {
