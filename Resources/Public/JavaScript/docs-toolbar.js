@@ -15,7 +15,7 @@ document.addEventListener('click', (event) => {
     Modal.advanced({
         title: trigger.dataset.docsTitle,
         content: iframe,
-        size: Modal.sizes.large,
+        size: Modal.sizes.full,
         severity: Severity.notice,
         buttons: [],
     });
